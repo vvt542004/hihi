@@ -1,1 +1,2 @@
 # hihi
+Repository Pattern là một mẫu thiết kế tối ưu giúp cho các bạn có thể tối ưu, tiết kiệm dòng code, tái sử dụng được nhiều nơi. Trong Laravel, nó là nằm giữa Model và Controller. Đây là nơi thực hiện các truy vấn dữ liệu. Trước đây thường bạn sẽ viết vào controllor nhưng bạn có cảm thấy mình lặp code khá nhiều, đặc biệt là các chức năng CRUD, hầu như ở mọi controller đều khá tương tự nhau. Ở bài viết này, mình sẽ giới thiệu với các bạn Repository để giảm sự lặp code ở các Controller.
